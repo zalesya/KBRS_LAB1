@@ -1,0 +1,5 @@
+textLength = 500 successLength = 0.3333333333333333 successKeywordEps = 0.13333333333333333 successKeywordWhole = 0.0
+textLength = 750 successLength = 0.9 successKeywordEps = 0.7333333333333333 successKeywordWhole = 0.0
+textLength = 1000 successLength = 0.9666666666666667 successKeywordEps = 0.9333333333333333 successKeywordWhole = 0.0
+textLength = 1250 successLength = 1.0 successKeywordEps = 1.0 successKeywordWhole = 0.0
+textLength = 1500 successLength = 0.9666666666666667 successKeywordEps = 0.9666666666666667 successKeywordWhole = 0.0
